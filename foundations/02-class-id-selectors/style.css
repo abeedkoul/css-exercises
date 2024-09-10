@@ -1,0 +1,16 @@
+.one{
+    background-color: #ff6961;
+    font-family: Verdana, "DejavuSans", sans-serif;
+}
+.one.two{
+    font-size: 24px;
+}
+#div1{
+    color: blue;
+    font-size: 36px;
+}
+#div2{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
